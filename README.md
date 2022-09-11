@@ -1,16 +1,4 @@
-# demo
+<h1>Flutter Notification Demo <h1>
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![SHOWUP](https://user-images.githubusercontent.com/42071241/189528958-423666e8-2345-4e8d-8cd9-b48c0cb59fec.png)
